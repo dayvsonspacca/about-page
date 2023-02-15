@@ -1,4 +1,4 @@
-# Página de apresentação do Chat GPT
+#Página de apresentação do Chat GPT
 
 
-## Confira seus usos, aplicações e mais.
+##Confira seus usos, aplicações e mais.
